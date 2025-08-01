@@ -54,3 +54,7 @@ To demonstrate basic Java OOPs knowledge on GitHub
 
 📬 Contact
 Feel free to connect with me on LinkedIn or reach out at ak749299.ak@gmail.com
+
+
+<img width="1358" height="910" alt="image" src="https://github.com/user-attachments/assets/530cf81d-f9a2-43ba-8f98-c002c792ee28" />
+

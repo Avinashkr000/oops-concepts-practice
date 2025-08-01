@@ -1,3 +1,6 @@
+<img width="1418" height="944" alt="image" src="https://github.com/user-attachments/assets/404983e3-8da4-4c43-a12e-949b132992c8" />
+
+
 # OOPs Concepts Practice in Java 🧠💻
 
 This repository contains concise Java programs demonstrating key Object-Oriented Programming (OOPs) concepts. The purpose of this project is to **revise core OOP principles** through clean and understandable code examples.
@@ -21,7 +24,6 @@ This repository contains concise Java programs demonstrating key Object-Oriented
 
 ---
 
-<img width="1920" height="812" alt="image" src="https://github.com/user-attachments/assets/2367b7a1-c7f9-4ea0-9740-41d924b29a7a" />
 
 
 ## 📁 File Structure

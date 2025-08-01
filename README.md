@@ -55,6 +55,6 @@ To demonstrate basic Java OOPs knowledge on GitHub
 📬 Contact
 Feel free to connect with me on LinkedIn or reach out at ak749299.ak@gmail.com
 
-![OOP Concepts UML Diagram](assets/oops-diagram.png)
+<img width="1920" height="812" alt="image" src="https://github.com/user-attachments/assets/2367b7a1-c7f9-4ea0-9740-41d924b29a7a" />
 
 
